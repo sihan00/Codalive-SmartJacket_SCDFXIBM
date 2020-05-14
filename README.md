@@ -23,3 +23,9 @@ h) Live demo (Link to an actual working demo/website)
 i) What your team used to build your solution* (e.g. IBM Cloudant, IBM Cloud Functions, etc…)
 
 *Items marked with an asterisk are compulsory
+
+# Resources available
+
+Link: https://iraangeles-ibm.github.io/SCDF-INNOVATION-CHALLENGE/
+1) GitHub
+2) IBM Cloud 
