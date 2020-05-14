@@ -31,6 +31,6 @@ Link: https://iraangeles-ibm.github.io/SCDF-INNOVATION-CHALLENGE/
 2) IBM Cloud 
 
 # Deadlines 
-14/04 - 24/04 : (Module 1) IBM Tutorials
-25/04 - 31/04 : (Module 2) SCDF Commissioner’s Workplan Address and Sharing of SCDF Videos
-01/05 - 05/05 : (Module 3) SCDF Virtual Immersion Programme
+- 14/04 - 24/04 : (Module 1) IBM Tutorials
+- 25/04 - 31/04 : (Module 2) SCDF Commissioner’s Workplan Address and Sharing of SCDF Videos
+- 01/05 - 05/05 : (Module 3) SCDF Virtual Immersion Programme
