@@ -1,6 +1,7 @@
 # Codalive-SolutionName_SCDFXIBM
 
 Short description of your team members, and team name.
+
 a) A short description of the problem you are tackling, how technology can help, as well as the idea your team is proposing*
 b) Pitch Video*
 c) The architecture of your proposed solution*
