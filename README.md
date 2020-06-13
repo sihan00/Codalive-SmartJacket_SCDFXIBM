@@ -30,7 +30,7 @@ Additionally, during operations, a portable fan may be attached to a slot in the
 d) A hyperlink to your detailed solution* (Long description of your solution)
 
 # Project Roadmap/ Proposed timeline
-
+<img width="960" alt ="2020-06-13" src="https://github.com/sihan00/Codalive-SolutionName_SCDFXIBM/blob/master/proj%20roadmap.PNG">
 
 f) Getting started* (Step-by-step instructions to install the required software and how to run a demo of your solution)
 
