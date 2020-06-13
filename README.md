@@ -61,3 +61,8 @@ h) Live demo (Link to an actual working demo/website)
 Link: https://iraangeles-ibm.github.io/SCDF-INNOVATION-CHALLENGE/
 1) GitHub
 2) IBM Cloud 
+
+Idea inspiration: 
+1) research paper - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5796472/
+2) research paper - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6308959/
+3) fan jacket - https://qz.com/quartzy/1674873/sonys-new-reon-pocket-is-an-in-shirt-air-conditioner/
