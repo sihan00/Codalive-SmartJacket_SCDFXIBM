@@ -58,9 +58,11 @@ h) Live demo (Link to an actual working demo/website)
 
 # Resources available
 
-Link: https://iraangeles-ibm.github.io/SCDF-INNOVATION-CHALLENGE/
+Challenge resources:  
 1) GitHub
 2) IBM Cloud 
+3) challenge guides - https://iraangeles-ibm.github.io/SCDF-INNOVATION-CHALLENGE/
+4) challenge website - https://www.scdf.gov.sg/scdf_innovation_challenge/resources
 
 Idea inspiration: 
 1) research paper - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5796472/
