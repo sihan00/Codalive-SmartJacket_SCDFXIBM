@@ -27,12 +27,12 @@ Additionally, during operations, a portable fan may be attached to a slot in the
 
 # The architecture 
 <img width="960" alt ="2020-06-13" src="https://github.com/sihan00/Codalive-SolutionName_SCDFXIBM/blob/master/ArchitectureDesign.png">
-- Sensors are linked to a user’s account. 
-- Sensors send data via Bluetooth/WiFi/Lora to Node-RED.
-- IBM DB2 stores acquired data. 
-- We retrieve an instance of Data Asset to IBM Machine Learning model for analysis of health or safety risks. 
-- Processed information is sent over to the user’s account, an alert is issued to commanding officer if any threat is detected.
-- User may access logged data for self evaluation.  
+1. Sensors are linked to a user’s account. 
+2. Sensors send data via Bluetooth/WiFi/Lora to Node-RED.
+3. IBM DB2 stores acquired data. 
+4. We retrieve an instance of Data Asset to IBM Machine Learning model for analysis of health or safety risks. 
+5. Processed information is sent over to the user’s account, an alert is issued to commanding officer if any threat is detected.
+6. User may access logged data for self evaluation.  
 
 
 d) A hyperlink to your detailed solution* (Long description of your solution)
