@@ -9,29 +9,28 @@ We have also renewed our admiration and respect towards Front Liners, the heroes
 THANK YOU VERY MUCH FOR YOUR WORK! 
 
 # What's the problem? 
-a) A short description of the problem you are tackling, how technology can help, as well as the idea your team is proposing*
+Firefighters are expected to perform their duties in high heat conditions. They face physical and mental challenges during training and operations. 
 
-Climate change. 
+Problem statement 2: Climate change
 
-Climate change is inevitable, with the projected increase in temperatures leading to phenomena such as the Urban Heat Island effect. This leads to an environment and climate where it is increasingly physically challenging for First Responders to train and operate to maximum efficiency and performance. How might SCDF leverage wearables or other technologies to provide relief or enhancement in harsh operating conditions and maximise the safety, health and performance of First Responders during training and operations?
-
-Urban Heat Island Effect - increase temperature and humidity. People get tired more easily while exercising and the body does not cool down due to lack of evaporation of sweat. 
+"Climate change is inevitable, with the projected increase in temperatures leading to phenomena such as the Urban Heat Island effect. This leads to an environment and climate where it is increasingly physically challenging for First Responders to train and operate to maximum efficiency and performance. How might SCDF leverage wearables or other technologies to provide relief or enhancement in harsh operating conditions and maximise the safety, health and performance of First Responders during training and operations?"
 
 # How can technology help?
-Gather data. Make sense of data. Optimise training effectiveness. Additional safeguard on the wellbeing of our heroes. 
+We gather heart rate and body temperature data from firefighters using sensors. We can make sense of such data via machine learning, to detect if an officer is overworked or in danger of heat stroke. Moreover, such data may complement optimising training effectiveness. The aim is to use data acquisition and analysis as an additional safeguard on the wellbeing of our heroes. 
 
 # The idea
-Machine learning. Training. 
-Operations. Safety. 
+We use lightweight, low cost sensors as attachment to the firefighter's jacket. They are to detect the firefighter's heart rate and body temperature. During training and operations, data acquired may be analysed real time to alert him/ her and the commanding officer(s) if he/ she is overworked or in danger of heat stroke. Moreover, such data can be kept in the user's own profile records on a web app for self evaluation. 
+
+Additionally, during operations, a portable fan may be attached to a slot in the firefighter's jacket to help fight the heat.  
 
 # Pitch Video
 
 # The architecture 
 
-
 d) A hyperlink to your detailed solution* (Long description of your solution)
 
-e) Project Roadmap/ Proposed timeline
+# Project Roadmap/ Proposed timeline
+
 
 f) Getting started* (Step-by-step instructions to install the required software and how to run a demo of your solution)
 
