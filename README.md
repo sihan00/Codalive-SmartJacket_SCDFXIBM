@@ -26,7 +26,7 @@ Additionally, during operations, a portable fan may be attached to a slot in the
 # Pitch Video
 
 # The architecture 
-<img width="960" alt ="2020-06-13" src="https://user-images.githubusercontent.com/57039140/84571260-b203a500-adc4-11ea-9c76-abc6368ab339.png">
+<img width="960" alt ="2020-06-13" src=https://github.com/sihan00/Codalive-SolutionName_SCDFXIBM/blob/master/ArchitectureDesign.png">
 d) A hyperlink to your detailed solution* (Long description of your solution)
 
 # Project Roadmap/ Proposed timeline
