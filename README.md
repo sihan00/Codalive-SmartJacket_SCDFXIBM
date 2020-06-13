@@ -13,6 +13,10 @@ a) A short description of the problem you are tackling, how technology can help,
 
 Climate change. 
 
+Climate change is inevitable, with the projected increase in temperatures leading to phenomena such as the Urban Heat Island effect. This leads to an environment and climate where it is increasingly physically challenging for First Responders to train and operate to maximum efficiency and performance. How might SCDF leverage wearables or other technologies to provide relief or enhancement in harsh operating conditions and maximise the safety, health and performance of First Responders during training and operations?
+
+Urban Heat Island Effect - increase temperature and humidity. People get tired more easily while exercising and the body does not cool down due to lack of evaporation of sweat. 
+
 # How can technology help?
 Gather data. Make sense of data. Optimise training effectiveness. Additional safeguard on the wellbeing of our heroes. 
 
