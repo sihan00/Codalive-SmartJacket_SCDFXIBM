@@ -1,14 +1,28 @@
-# Codalive-repo
+# Codalive-SolutionName_SCDFXIBM
 
-Codalive-SolutionName_SCDFXIBM
+# Short description
+Our team members are Foon Si Han, Agnes Woo Jie Lyn, Lai Jing Ying Claudia.
+Codalive exists because of our common desire to learn something new and exercise our creativity this Covid holiday. 
+Our team name is inspired from 'code' and 'alive', which represents our hope that coding technology can help save lives. 
+Together, we have learnt to recognise new challenges and trends towards life saving. 
+We have also renewed our admiration and respect towards Front Liners, the heroes of SCDF.  
+THANK YOU VERY MUCH FOR YOUR WORK! 
 
-Short description of your team members, and team name.
-
+# What's the problem? 
 a) A short description of the problem you are tackling, how technology can help, as well as the idea your team is proposing*
 
-b) Pitch Video*
+Climate change. 
 
-c) The architecture of your proposed solution*
+# How can technology help?
+Gather data. Make sense of data. Optimise training effectiveness. Additional safeguard on the wellbeing of our heroes. 
+
+# The idea
+Machine learning. Training. 
+Operations. Safety. 
+
+# Pitch Video
+
+# The architecture 
 
 d) A hyperlink to your detailed solution* (Long description of your solution)
 
@@ -29,8 +43,3 @@ i) What your team used to build your solution* (e.g. IBM Cloudant, IBM Cloud Fun
 Link: https://iraangeles-ibm.github.io/SCDF-INNOVATION-CHALLENGE/
 1) GitHub
 2) IBM Cloud 
-
-# Deadlines 
-- 14/04 - 24/04 : (Module 1) IBM Tutorials
-- 25/04 - 31/04 : (Module 2) SCDF Commissioner’s Workplan Address and Sharing of SCDF Videos
-- 01/05 - 05/05 : (Module 3) SCDF Virtual Immersion Programme
