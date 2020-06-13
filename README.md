@@ -9,16 +9,14 @@ We have also renewed our admiration and respect towards Front Liners, the heroes
 THANK YOU VERY MUCH FOR YOUR WORK! 
 
 # What's the problem? 
-a) A short description of the problem you are tackling, how technology can help, as well as the idea your team is proposing*
+Firefighters deal with extreme heat conditions during both training and operations. Their work is physically and mentally demanding. 
 
-Climate change. 
+Problem statement 2: Climate change
 
-Climate change is inevitable, with the projected increase in temperatures leading to phenomena such as the Urban Heat Island effect. This leads to an environment and climate where it is increasingly physically challenging for First Responders to train and operate to maximum efficiency and performance. How might SCDF leverage wearables or other technologies to provide relief or enhancement in harsh operating conditions and maximise the safety, health and performance of First Responders during training and operations?
-
-Urban Heat Island Effect - increase temperature and humidity. People get tired more easily while exercising and the body does not cool down due to lack of evaporation of sweat. 
+"Climate change is inevitable, with the projected increase in temperatures leading to phenomena such as the Urban Heat Island effect. This leads to an environment and climate where it is increasingly physically challenging for First Responders to train and operate to maximum efficiency and performance. How might SCDF leverage wearables or other technologies to provide relief or enhancement in harsh operating conditions and maximise the safety, health and performance of First Responders during training and operations?"
 
 # How can technology help?
-Gather data. Make sense of data. Optimise training effectiveness. Additional safeguard on the wellbeing of our heroes. 
+We gather data about firefighters' heart rate and body temperature with sensors. There is potential to make sense of such data via a machine learning process. Optimise training effectiveness. Additional safeguard on the wellbeing of our heroes. 
 
 # The idea
 Machine learning. Training. 
