@@ -63,19 +63,28 @@ After creating your account, enter the console and add an application. Fill in t
 
 ## On Node-RED
 ```
-npm install node-red-contrib-db2 node-red-contrib-ttn
+npm install node-red-contrib-db2-fixed node-red-contrib-ttn
 ```
 Configure and connect the TTN uplink node to the Db2 node to enter data into the Db2 database
 
+<img width="960" alt ="2020-06-13" src="https://github.com/sihan00/Codalive-SolutionName_SCDFXIBM/blob/master/Node-RED_connection.png">
 
 ## On IBM Cloud
 Go to your catalogue and create an instance of Watson Studios, Watson Machine Learning, Db2 if they have not been created. 
 
 1. Create a new project on Watson Studio 
-2. Create a Db2 database and new credentials for it. Record it
-3. At the Watson Studio project, create a connection by add to project and select Db2
+2. Create a Db2 database and new credentials for it. Record the credentials down
+3. At the Watson Studio project, create a connection by *add to project* and select Db2
 4. Configure the connection using the credentials recorded earlier
 5. Go back to the Db2 console and run an SQL and choose appropriate Schema to configure the data
+6. Return to Watson Studios project click *add to project*a and select *Connected assets*
+7. Choose the configured data from step 5 as the the connection source and click create to create a data asset
+8. Click the assets tab in the the Watson studio project and click *New Watson Machine Learning Model" 
+9. Create a new model and choose the data asset created the data asset from step 7
+10. Save the best performance after the Machine Learning training and evaluation is done
+11. Configure the setting under the evaluation tab to add feedback data so that machine learning would evaluate again with new data
+12. In the *Depoloyments* tab, click *Add Deployment*, choose *Web service* and save it
+13. The Machine Learning Model can be used on under the *Implementation* tab
 
 
 # Build With
@@ -84,6 +93,13 @@ Go to your catalogue and create an instance of Watson Studios, Watson Machine Le
 - IBM DB2
 - IBM Machine Learning
 - REACT WEB APP/IOS/Andriod 
+
+## Links
+
+node-red db2 - https://flows.nodered.org/node/node-red-contrib-db2-fixed
+node-red ttn - https://flows.nodered.org/node/node-red-contrib-ttn
+IBM Watson Studio documentation - https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html
+watson-continuous-learning-on-db2 - https://github.com/IBM/watson-continuous-learning-on-db2
 
 # Resources available
 
