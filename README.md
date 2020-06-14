@@ -5,7 +5,8 @@ Our team members are Foon Si Han, Agnes Woo Jie Lyn, Lai Jing Ying Claudia.
 Codalive exists because of our common desire to learn something new and exercise our creativity and be part of something greater than ourselves to contribute to the community this Covid season. 
 Our team name is inspired from 'code' and 'alive', which is symbolic of our hope and dream that engineers can not only design the future but also use the power of coding to save lives. 
 Together, we appreciate how much we can learn about the different technologies available to recognise new challenges and trends towards doing what we can to put others first and to protect our community during crisis. 
-We have also renewed our admiration and respect towards Front Liners, the heroes of SCDF.  
+Through researching for the project and creating new innovations to contribute to the process of value adding towards the solutions available for the problem statement, we learnt so much more about the sacrifices and contributions of those working to support the front lines especially during crisis such as the covid-19. 
+With this newfound respect and appreciations towards our frontliners, it gives us even more honour and privilege to be able to be part of this opportunity to contribute our ideas and play a part in this process of saving lives, no matter how small it may be.  
 THANK YOU VERY MUCH FOR YOUR WORK! 
 
 # What's the problem? 
