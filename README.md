@@ -26,7 +26,7 @@ Additionally, during operations, a portable fan may be attached to a slot in the
 # Pitch Video
 
 # The architecture 
-<img width="960" alt ="2020-06-13" src="https://github.com/sihan00/Codalive-SolutionName_SCDFXIBM/blob/master/ArchitectureDesign.png">
+<img width="960" alt ="2020-06-13" src="https://github.com/sihan00/Codalive-SolutionName_SCDFXIBM/blob/master/Architecture_Design.png">
 
 1. Sensors are linked to a user’s account. 
 2. Sensors send data via Bluetooth/WiFi/Lora to Node-RED.
@@ -39,7 +39,7 @@ Additionally, during operations, a portable fan may be attached to a slot in the
 d) A hyperlink to your detailed solution* (Long description of your solution)
 
 # Project Roadmap/ Proposed timeline
-<img width="960" alt ="2020-06-13" src="https://github.com/sihan00/Codalive-SolutionName_SCDFXIBM/blob/master/Architecture_Design.png">
+<img width="960" alt ="2020-06-13" src="https://github.com/sihan00/Codalive-SolutionName_SCDFXIBM/blob/master/proj%20roadmap.PNG">
 
 f) Getting started* (Step-by-step instructions to install the required software and how to run a demo of your solution)
 
@@ -49,7 +49,36 @@ h) Live demo (Link to an actual working demo/website)
 
 
 *Items marked with an asterisk are compulsory
- 
+
+# Getting Started
+## Prerequisites
+1. IBM Cloud account
+2. Sensor and microcontroller of choice
+3. The Thing Network account
+4. Configured TTN gateway
+5. node-RED running on IBM Cloud or locally
+https://nodered.org/docs/getting-started/ibmcloud
+
+## On The Things Network
+After creating your account, enter the console and add an application. Fill in the necessary information and register your IoT device.
+
+## On Node-RED
+```
+npm install node-red-contrib-db2 node-red-contrib-ttn
+```
+Conigure and connect the TTN uplink node to the Db2 node to enter data into the Db2 database
+
+
+## On IBM Cloud
+Go to your catalogue and create an instance of Watson Studios, Watson Machine Learning, Db2 if they have not been created. 
+
+1. Create a new project on Watson Studio 
+2. Create a Db2 database and new credentials for it. Record it
+3. At the Watson Studio project, create a connection by add to project and select Db2
+4. Configure the connection using the credentials recorded earlier
+5. Go back to the Db2 console and run an SQL and choose appropriate Schema to configure the data
+
+
 # Build With
 - The Things Network
 - Node-RED
