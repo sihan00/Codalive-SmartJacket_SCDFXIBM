@@ -25,7 +25,8 @@ We use lightweight, low cost sensors as attachment to the firefighter's jacket. 
 Additionally, during operations, a portable fan may be attached to a slot in the firefighter's jacket to help fight the heat. 
 
 # Pitch Video
-https://youtu.be/P2LJPxlXN7I
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/P2LJPxlXN7I/0.jpg)](https://www.youtube.com/watch?v=P2LJPxlXN7I)
 
 # The architecture 
 <img width="960" alt ="2020-06-13" src="https://github.com/sihan00/Codalive-SolutionName_SCDFXIBM/blob/master/Architecture_Design.png">
