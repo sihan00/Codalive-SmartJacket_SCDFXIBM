@@ -56,8 +56,7 @@ h) Live demo (Link to an actual working demo/website)
 2. Sensor and microcontroller of choice
 3. The Thing Network account
 4. Configured TTN gateway
-5. node-RED running on IBM Cloud or locally
-https://nodered.org/docs/getting-started/ibmcloud
+5. node-RED running locally or on IBM cloud - https://nodered.org/docs/getting-started/ibmcloud
 
 ## On The Things Network
 After creating your account, enter the console and add an application. Fill in the necessary information and register your IoT device.
@@ -66,7 +65,7 @@ After creating your account, enter the console and add an application. Fill in t
 ```
 npm install node-red-contrib-db2 node-red-contrib-ttn
 ```
-Conigure and connect the TTN uplink node to the Db2 node to enter data into the Db2 database
+Configure and connect the TTN uplink node to the Db2 node to enter data into the Db2 database
 
 
 ## On IBM Cloud
