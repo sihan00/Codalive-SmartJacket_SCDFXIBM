@@ -1,4 +1,4 @@
-# Codalive-SolutionName_SCDFXIBM
+# Codalive-SmartJacket_SCDFXIBM
 
 # Short description
 Our team members are Foon Si Han, Agnes Woo Jie Lyn, Lai Jing Ying Claudia.
@@ -19,7 +19,7 @@ Problem statement 2: Climate change
 # How can technology help?
 We gather heart rate and body temperature data from firefighters using sensors. We can make sense of such data via machine learning, to detect if an officer is overworked or in danger of heat stroke. Moreover, such data may complement optimising training effectiveness. The aim is to use data acquisition and analysis as an additional safeguard on the wellbeing of our heroes. 
 
-# The idea-Smart Jacket
+# The idea - SmartJacket
 We use lightweight, low cost sensors as attachment to the firefighter's jacket. They are to detect the firefighter's heart rate and body temperature. During training and operations, data acquired may be analysed real time to alert him/ her and the commanding officer(s) if he/ she is overworked or in danger of heat stroke. Moreover, such data can be kept in the user's own profile records on a web app for self evaluation. 
 
 Additionally, during operations, a portable fan may be attached to a slot in the firefighter's jacket to help fight the heat. 
