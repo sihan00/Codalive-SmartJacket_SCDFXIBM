@@ -25,6 +25,7 @@ We use lightweight, low cost sensors as attachment to the firefighter's jacket. 
 Additionally, during operations, a portable fan may be attached to a slot in the firefighter's jacket to help fight the heat. 
 
 # Pitch Video
+https://youtu.be/P2LJPxlXN7I
 
 # The architecture 
 <img width="960" alt ="2020-06-13" src="https://github.com/sihan00/Codalive-SolutionName_SCDFXIBM/blob/master/Architecture_Design.png">
@@ -35,9 +36,6 @@ Additionally, during operations, a portable fan may be attached to a slot in the
 4. We retrieve an instance of Data Asset to IBM Machine Learning model for analysis of health or safety risks. 
 5. Processed information is sent over to the user’s account, an alert is issued to commanding officer if any threat is detected.
 6. User may access logged data for self evaluation.  
-
-
-d) A hyperlink to your detailed solution* (Long description of your solution)
 
 # Project Roadmap/ Proposed timeline
 <img width="960" alt ="2020-06-13" src="https://github.com/sihan00/Codalive-SolutionName_SCDFXIBM/blob/master/proj%20roadmap.PNG">
